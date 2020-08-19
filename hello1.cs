@@ -6,6 +6,7 @@ namespace Github {
             System.Console.WriteLine("Hello C#");
             //
             int a = 30;
+            Console.WriteLine("88888888888888888888888");
         }
     }
 }
